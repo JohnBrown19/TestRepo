@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+
+#list{
+    border: 1px solid black;
+    background-color: blue;
+    height: 250px;
+    width: 50%;
+}
+
+.otherdiv{
+
+}
